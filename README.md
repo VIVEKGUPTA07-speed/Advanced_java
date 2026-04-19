@@ -25,3 +25,23 @@ String_Operation.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_j
 PerformanceTest.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/2b.png
 
 StringHandlingDemo.java o/p link : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/3a.png
+
+Q1_3b.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/3b_Q1.png
+
+Q2_3b.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/3b_Q2.png
+
+Q3_3b.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/3b_Q3.png
+
+Q4_3b.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/3b_Q4.png
+
+Q5_3b.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/3b_Q5.png
+
+Q6_3c.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/3c_Q6.png
+
+Q7_3c.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/3c_Q7.png
+
+Q8_3c.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/3c_Q8.png
+
+Q9_3c.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/3c_Q9.png
+
+Q10_3c.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/3c_Q10.png
