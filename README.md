@@ -59,3 +59,25 @@ TabColors.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blo
 CountryCapital.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/5c.png
 
 TabColorCMY.java o/p link: https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/5d.png
+
+FactorialServlet.java o/p link : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/6a/6a.png
+
+CookieServlet.java o/p link : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/6b/6b.png
+
+PrimeServlet.java  o/p link : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/6c/6c.png
+
+7a.java o/p link : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/7a/7a.png
+
+7b.java o/p link : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/7b/7b.png
+
+CookieServlet.java o/plink : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/8a/8a.png
+
+CookieServlet.java o/p link : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/8b/8b.png
+
+SessionServlet.java o/p link : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/9a/9a.png
+
+9b.java o/p link : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/9b/9b.png
+
+UserDataServlet.java o/p link : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/10a/10a.png
+
+ResultServlet.java o/p link : https://github.com/VIVEKGUPTA07-speed/Advanced_java/blob/main/10b/10b.png
